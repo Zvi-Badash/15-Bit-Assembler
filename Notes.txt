@@ -1,0 +1,2 @@
+Notes for assembler:
+The Tests folder contains both input files and output files. as the output files won't be created for hasErrors.as, I've added a screenshot of the terminal.
